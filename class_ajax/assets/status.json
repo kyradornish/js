@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Kyra", 
+        "attendance":false
+    },
+    {
+        "name": "Max",
+        "attendance":true
+    },
+    {
+        "name": "Derek",
+        "attendance": false
+    },
+    {
+        "name": "Connor",
+        "attendance": true
+    },
+    {
+        "name": "Evan",
+        "attendance": true
+    }
+]

@@ -1,0 +1,15 @@
+.navbar {
+    border-radius: 0px;
+}
+
+.photos {
+    margin: 30px;
+    max-width: 300px;
+    max-height: 300px;
+    width: 50%;
+    height: 50%;
+}
+
+#photo_search{
+    margin: 8px;
+}
